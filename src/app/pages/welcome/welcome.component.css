@@ -1,0 +1,28 @@
+/* Estilos para los rectángulos y el contenedor */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 300px; /* Puedes ajustar la altura según sea necesario */
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  .rectangle {
+    width: 100px; /* Ancho del rectángulo */
+    height: 50px; /* Altura del rectángulo */
+    margin: 5px; /* Margen entre los rectángulos */
+
+  }
+.uno{background-color: aqua;border: 1px solid aqua;}
+.dos{background-color: rgb(124, 168, 168); border: 1px solid rgb(124, 168, 168);}
+.tres{background-color: rgb(255, 51, 0);border: 1px solid rgb(255, 51, 0);}
+.cuatro{background-color: rgb(183, 0, 255);border: 1px solid rgb(183, 0, 255);}
+.cinco{background-color: rgb(204, 17, 95);border: 1px solid rgb(204, 17, 95); }
+.seis{background-color: rgb(21, 255, 0);border: 1px solid rgb(21, 255, 0);}
+.siete{background-color: rgb(123, 231, 0);border: 1px solid rgb(123, 231, 0);}
+.ocho{background-color: rgb(255, 187, 0);border: 1px solid rgb(255, 187, 0);}
+.nueve{background-color: rgb(146, 97, 105);border: 1px solid rgb(146, 97, 105);}
